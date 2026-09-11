@@ -79,12 +79,12 @@ class ArslanTariq:
 
 | Project | Domain / Stack | Key Technical Highlights |
 | :--- | :--- | :--- |
-| **[Al-Hidayah Web Platform](https://github.com/arslantariq364/Al-Hidayah-Islamic-Lifestyle-Quran-Companion-Web-Platform)** | Full-Stack, Flask, PostgreSQL, Claude AI | Production-grade spiritual companion with 22 REST endpoints, PostgreSQL triggers, JWT auth, and Anthropic Claude AI integration. |
-| **[Quantitative Portfolio Analytics](https://github.com/arslantariq364/Investment-Management-)** | Quant Finance, Python, Pandas, SciPy | Computational portfolio risk modeling: Sharpe Ratio, historical drawdown series, and Value-at-Risk (Historic, Gaussian, Cornish-Fisher). |
-| **[Applied ML & Predictive Models](https://github.com/arslantariq364/Machine-Learning-Algorithms)** | ML, XGBoost, LightGBM, CCXT | 15-min cryptocurrency momentum signal ensemble with probability calibration, matrix OLS linear regression from scratch, and Naive Bayes. |
-| **[Core Data Structures in C++](https://github.com/arslantariq364/Data-Structures)** | Algorithms, C++17, DSA | Self-balancing AVL trees (LL/RR/LR/RL rotations), BST, circular queue buffers, stacks, and recursive combinatorial backtracking. |
-| **[Fleet Fuel System Architecture](https://github.com/arslantariq364/System-Design-Analysis)** | System Design, UML 2.5, SDA | Enterprise software architecture specification with complete FR/NFR matrices, Class Diagrams, Sequence Flows, and State Machines. |
-| **[C++ OOP Library System](https://github.com/arslantariq364/Library-Maanagement-System-OOP-Project)** | C++ OOP, Memory Management | Polymorphic media management using virtual dispatch, inheritance hierarchy (`Book`/`EBook`/`AudioBook`), and RAII destructors. |
+| **[Al-Hidayah Web Platform](https://github.com/arslantariq364/al-hidayah-platform)** | Full-Stack, Flask, PostgreSQL, Claude AI | Production-grade spiritual companion with 22 REST endpoints, PostgreSQL triggers, JWT auth, and Anthropic Claude AI integration. |
+| **[Quantitative Portfolio Analytics](https://github.com/arslantariq364/quantitative-portfolio-management)** | Quant Finance, Python, Pandas, SciPy | Computational portfolio risk modeling: Sharpe Ratio, historical drawdown series, and Value-at-Risk (Historic, Gaussian, Cornish-Fisher). |
+| **[Applied ML & Predictive Models](https://github.com/arslantariq364/machine-learning-algorithms)** | ML, XGBoost, LightGBM, CCXT | 15-min cryptocurrency momentum signal ensemble with probability calibration, matrix OLS linear regression from scratch, and Naive Bayes. |
+| **[Core Data Structures in C++](https://github.com/arslantariq364/data-structures-cpp)** | Algorithms, C++17, DSA | Self-balancing AVL trees (LL/RR/LR/RL rotations), BST, circular queue buffers, stacks, and recursive combinatorial backtracking. |
+| **[Fleet Fuel System Architecture](https://github.com/arslantariq364/system-design-fleet-management)** | System Design, UML 2.5, SDA | Enterprise software architecture specification with complete FR/NFR matrices, Class Diagrams, Sequence Flows, and State Machines. |
+| **[C++ OOP Library System](https://github.com/arslantariq364/library-management-system-cpp)** | C++ OOP, Memory Management | Polymorphic media management using virtual dispatch, inheritance hierarchy (`Book`/`EBook`/`AudioBook`), and RAII destructors. |
 
 ---
 
