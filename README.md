@@ -15,14 +15,14 @@
 class ArslanTariq:
     def __init__(self):
         self.name = "Arslan Tariq"
-        self.role = "Computer Science Student & Machine Learning Engineer"
+        self.role = "CS Undergraduate | Quantitative Finance, ML & Computational Systems"
         self.university = "FAST NUCES (National University of Computer & Emerging Sciences)"
         self.cgpa = 3.33
         self.leadership = ["Applied Physics Teaching Assistant"]
         self.passions = ["Deep Learning", "Quantitative Finance", "Systems Architecture", "C++ Optimization"]
 
     def current_focus(self):
-        return "Engineering production-grade AI systems, quantitative risk engines, and robust C++ architectures."
+        return "Applying statistics, optimization, and software engineering to quantitative finance, ML research, and C++ systems."
 ```
 
 </div>
@@ -37,7 +37,7 @@ class ArslanTariq:
   - **Applied AI & ML:** Time-series cryptocurrency predictive modeling, ensemble gradient boosting (XGBoost, LightGBM), and neural architectures.
   - **Quantitative Finance:** Asset returns annualization, Value at Risk (VaR), Sharpe ratio optimization, and historical drawdown analytics.
   - **Systems & Software Design:** Low-level C++ data structures (self-balancing AVL trees, circular triage queues), relational database architecture with PostgreSQL triggers, and full-stack Flask APIs.
-- 🎯 **Current Objective:** Seeking high-impact Software Engineering and AI/ML Internship & New Grad roles.
+- 🎯 **Current Objective:** Seeking quantitative finance and AI/ML internships, research collaborations, and computational systems roles.
 
 ---
 
